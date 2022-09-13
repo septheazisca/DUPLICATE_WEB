@@ -128,3 +128,18 @@ h3{
   font-weight: bold;
   font-size: 27px;
 }
+
+.about{
+  padding: 0 60px 200px;
+}
+
+.me{
+  margin-top: 20px;
+  max-width: 70%x;
+}
+
+.about img{
+  float: right;
+  max-width: 500px;
+  margin-top: -50px;
+}
